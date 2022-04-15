@@ -24,5 +24,5 @@ https://assets.codepen.io/3364143/7btrrd.mp4
 
 **Ссылка на проект**
 
-* [Ссылка на проект](https://dimdimshishkov.github.io/russian-travel/)
+* [Ссылка на проект](https://dimdimshishkov.github.io/dayNigth/)
 
